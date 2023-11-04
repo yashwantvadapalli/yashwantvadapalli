@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yash! <br/><a href="https://github.com/yashwantvadapalli">Programmer</a>, <a href="https://www.linkedin.com/in/yashwant-vadapalli">Aspiring Data Scientist</a>, <a>Final Year Computer Science student</a></h1>
+<h1>Hi, I'm Yash! <br/><a href="https://github.com/yashwantvadapalli">Programmer</a>, <a href="https://www.linkedin.com/in/yashwant-vadapalli">Aspiring Data Scientist</a>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
