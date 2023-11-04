@@ -1,27 +1,7 @@
 <h1>Hi, I'm Yash!
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
-- <b>Customer Churn Prediction</b>
-      [View Project Repository](https://github.com/yashwantvadapalli/customer-churn-prediction)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ - <a href="https://github.com/yashwantvadapalli/customer-churn-prediction"><b>Customer Churn Prediction</b></a>
 
 
 
