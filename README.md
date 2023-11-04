@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 - <b>Customer Churn Prediction</b>
-  -(https://github.com/yashwantvadapalli/customer-churn-prediction)
+  -[Customer Churn Prediction](https://github.com/yashwantvadapalli/customer-churn-prediction)
+
 
 
 
