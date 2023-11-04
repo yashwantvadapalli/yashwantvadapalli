@@ -1,6 +1,8 @@
 <h1>Hi, I'm Yash!
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
+- <b>Customer Churn Prediction</b>
+  -(https://github.com/yashwantvadapalli/customer-churn-prediction)
 
 
 
