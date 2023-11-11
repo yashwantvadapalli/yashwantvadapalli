@@ -1,8 +1,8 @@
 <h1>Hi, I'm Yash!
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
- - <a href="https://github.com/yashwantvadapalli/customer-churn-prediction"><b>Customer Churn Prediction</b></a>
- - <a href="https://github.com/yashwantvadapalli/titanic-passenger-analysis"><b>Titanic Passenger Analysis</b></a>
+## 👨‍💻 Data Analysis Projects:
+- [**Customer Churn Prediction**](https://github.com/yashwantvadapalli/customer-churn-prediction)
+- [**Titanic Passenger Analysis**](https://github.com/yashwantvadapalli/titanic-passenger-analysis)
 
 
 
