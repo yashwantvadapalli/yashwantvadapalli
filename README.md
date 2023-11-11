@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
  - <a href="https://github.com/yashwantvadapalli/customer-churn-prediction"><b>Customer Churn Prediction</b></a>
+ - <a href="https://github.com/yashwantvadapalli/titanic-passenger-analysis"><b>Titanic Passenger Analysis</b></a>
 
 
 
