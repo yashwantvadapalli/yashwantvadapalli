@@ -1,9 +1,12 @@
 <h1>Hi, I'm Yash!
 
 ## 👨‍💻 Data Analysis Projects:
+
+- [**Loan Default Prediction**](https://github.com/yashwantvadapalli/loan-deafult-prediction)
 - [**Online Retail Exploratory**](https://github.com/yashwantvadapalli/online-retail-exploratory)
 - [**Customer Churn Prediction**](https://github.com/yashwantvadapalli/customer-churn-prediction)
 - [**Titanic Passenger Analysis**](https://github.com/yashwantvadapalli/titanic-passenger-analysis)
+
 
 
 
