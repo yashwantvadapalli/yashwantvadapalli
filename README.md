@@ -6,6 +6,7 @@
 - [**Online Retail Exploratory**](https://github.com/yashwantvadapalli/online-retail-exploratory)
 - [**Customer Churn Prediction**](https://github.com/yashwantvadapalli/customer-churn-prediction)
 - [**Titanic Passenger Analysis**](https://github.com/yashwantvadapalli/titanic-passenger-analysis)
+- [**YouTube_Sentiment_Analysis**](https://github.com/yashwantvadapalli/YouTube_Sentiment_Analysis)
 
 ## 🤖🧠 Machine Learning Projects:
 - [**Mushroom Classification**](https://github.com/yashwantvadapalli/Mushroom-Classification-ML)
